@@ -1,2 +1,2 @@
-# Single-leg-multilevel-marketing-web-application-
-Single leg multilevel marketing web application 
+# Google Chart in Laravel 8
+Google Chart in Laravel 8
